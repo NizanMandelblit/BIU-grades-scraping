@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from tabulate import tabulate
 
-chromedriver = "c:/Users/cellium/Downloads/chromedriver.exe"
+chromedriver = "/chromedriver.exe location"
 driver = webdriver.Chrome(chromedriver)
 id = 'your_id'
 pwd = 'your_password'
