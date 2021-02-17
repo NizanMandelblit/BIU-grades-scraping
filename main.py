@@ -25,7 +25,6 @@ rows = table_id.find_elements(By.TAG_NAME, "tr")
 for row in rows[1:]:
     td = row.find_elements(By.TAG_NAME, "td")
     if len(td) > 6 and td[6].text != '':
-
         course =  td[1].text
         grade = td[6].text
         print(tabulate([[course[::-1], grade]], headers=['course', 'grade']))
