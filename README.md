@@ -14,4 +14,7 @@ enter your id and password lines 7-8 in the code.
 download chrome-driver at https://chromedriver.chromium.org/
 and place the file location at line 5.
 ## biugradeGUI.py
-just run with python 3.8 or higher
+just run with python 3.8 or higher  after installing the pip modules :
+```
+python biugradeGUI.py
+```
