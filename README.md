@@ -9,7 +9,7 @@ you can use the released installer for windows-64 or use the source code main.py
 ## main.py --without gui
 pip-install:
 ```
-pip-install selenium, tabulate,tkinter
+pip-install selenium, tabulate
 ```
 
 
