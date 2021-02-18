@@ -1,5 +1,5 @@
 # BIU-grades-scraping
-a small python script to auto scrape BIU inbar system grades.
+a small python script to auto scrape BIU inbar system grades and list them as a table.
 
  <img src="https://i.ibb.co/g9rZRn4/appbiu.png">
 
