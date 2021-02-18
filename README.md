@@ -5,8 +5,8 @@ a small python script to auto scrape BIU inbar system grades and list them as a 
 
 
 # How to use
-you can use the released installer for windows-64 or use the source code as follows:
-
+you can use the released installer for windows-64 or use the source code main.py as follows:
+## main.py --witout gui
 pip-install selenium and tabulate.
 
 enter your id and password lines 7-8 in the code.
