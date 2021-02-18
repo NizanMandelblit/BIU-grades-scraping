@@ -25,3 +25,5 @@ just run with python 3.8 or higher  after installing the pip modules :
 ```
 python biugradeGUI.py
 ```
+## chrome-driver
+you can download the right chrome-driver for your chrome browser version at https://chromedriver.chromium.org
