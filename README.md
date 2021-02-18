@@ -6,7 +6,7 @@ a small python script to auto scrape BIU inbar system grades and list them as a 
 
 # How to use
 you can -
-* use the released installer for windows-64
+* use the pre-released installer for windows-64 ---not working properly at the moment
 * use the source code main.py without GUI
 * use biugradeGUI.py with GUI
 ## main.py --without gui
